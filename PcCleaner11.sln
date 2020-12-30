@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcCleaner11", "PcCleaner11\PcCleaner11.csproj", "{11A07C66-5634-449F-BCD2-0C24D022AE61}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{0B59CCD3-74CD-42A7-B299-199093CB30D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A07C66-5634-449F-BCD2-0C24D022AE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A07C66-5634-449F-BCD2-0C24D022AE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A07C66-5634-449F-BCD2-0C24D022AE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A07C66-5634-449F-BCD2-0C24D022AE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B59CCD3-74CD-42A7-B299-199093CB30D2}.Debug|Any CPU.ActiveCfg = Debug
+		{0B59CCD3-74CD-42A7-B299-199093CB30D2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9DC48CA-524B-4B11-B6CD-CA8683575705}
+	EndGlobalSection
+EndGlobal
